@@ -29,7 +29,7 @@ body{
 
 .main span{
     position: absolute;
-    transform: rotateY(calc(var(--i)*45deg)) translateZ(400px);
+    transform: rotateY(calc(var(--i)*45deg)) translateZ(460px);
 }
 .main span img{
     width: 100%;
